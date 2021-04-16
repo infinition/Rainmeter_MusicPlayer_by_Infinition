@@ -1,7 +1,8 @@
 #Rainmeter_MusicPlayer_by_Infinition
 
 This is my music player Skin
-With the WebNowPlaying Chrome extension and the DLL.
+With the WebNowPlaying Chrome extension and the DLL. 
+https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli
 
 It's compatible with Youtube and Deezer.
 
